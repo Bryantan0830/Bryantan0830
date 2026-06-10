@@ -4,17 +4,17 @@
   <img src="https://github.com/sylvesterkho1113/sylvesterkho1113/blob/main/Banner.jpg" alt="banner" width="100%"/>
 </p>
 
-<h2 align="center">Hi there, I'm Kho Wei Cong 😄</h2>
+<h2 align="center">Hi there, I'm Bryan Tan Bin Guan 😄</h2>
 
 <p align="center">
-A final year AI student passionate about building real-world intelligent systems 🚀
+<!-- A final year AI student passionate about building real-world intelligent systems 🚀 -->
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Bryantan0830">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="http://www.linkedin.com/in/wei-cong-kho-912685300">
+  <a href="https://www.linkedin.com/in/bryan-tan-bin-guan-79130b270/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -25,25 +25,25 @@ A final year AI student passionate about building real-world intelligent systems
 
 ```json
 {
-  "name": "Wei Cong Kho",
-  "email": "khoweicong100@gmail.com",
+  "name": "Bryan Tan Bin Guan",
+  "email": "bryan798303@gmail.com",
   "education": {
     "Bachelor of Computer Science (Hons), Artificial Intelligence": {
       "institution": "Multimedia University",
-      "cgpa": "3.77/4.00"
+      "cgpa": "3.69/4.00"
     },
     "Diploma in Information Technology": {
       "institution": "Multimedia University",
-      "cgpa": "3.48/4.00"
+      "cgpa": "3.80/4.00"
     }
   },
-  "language": ["en", "zh", "ms"],
-  "located_in": ["Johor Bahru, Malaysia"],
-  "currently_working_on": "Real-Time Drowsiness Detection Using Facial Cues Via A Mobile Application",
+  "language": ["en", "zh", "ms", "jp"],
+  "located_in": ["Skudai, Johor Bahru, Malaysia"],
+  "currently_working_on": "AI-POWERED-CONTEXT-AWARE-INDOOR-NAVIGATION",
   "current_focus": [
-    "Deep Learning",
-    "Real-time Systems",
-    "Mobile + AI Integration"
+    "Mobile + AI Integration",
+    "Unity",
+    "Indoor Navigaion"
   ]
 }
 ```
@@ -82,13 +82,12 @@ A final year AI student passionate about building real-world intelligent systems
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-%2300C853.svg?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ### ☁️ Others
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23202020.svg?style=for-the-badge&logo=Unity&logoColor=%23FFFFFF)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -99,9 +98,10 @@ A final year AI student passionate about building real-world intelligent systems
 
 ## 🚀 Currently Working On
 
-* Enhancing AI model performance for real-time applications
+<!-- * Enhancing AI model performance for real-time applications
 * Learning system optimization & parallel computing
-* Exploring AI integration with mobile apps
+* Exploring AI integration with mobile apps -->
+* AI-POWERED-CONTEXT-AWARE-INDOOR-NAVIGATION
 
 ---
 
