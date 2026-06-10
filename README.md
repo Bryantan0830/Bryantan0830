@@ -1,7 +1,7 @@
 # 🌌
 
 <p align="center">
-  <img src="https://github.com/sylvesterkho1113/sylvesterkho1113/blob/main/Banner.jpg" alt="banner" width="100%"/>
+  <img src="https://github.com/Bryantan0830/Bryantan0830/blob/main/Banner.jpg" alt="banner" width="100%"/>
 </p>
 
 <h2 align="center">Hi there, I'm Bryan Tan Bin Guan 😄</h2>
